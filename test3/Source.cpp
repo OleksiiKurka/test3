@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello World it works even from git try 3");
+	printf("Hello World, this is gonna end in a merge conflict");
 	return 0;
 }
