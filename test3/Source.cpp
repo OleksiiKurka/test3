@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello World it works even from git");
+	printf("Hello World it works even from git try 2");
 	return 0;
 }
